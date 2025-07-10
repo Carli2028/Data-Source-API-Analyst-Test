@@ -12,10 +12,6 @@ Data-Source-API-Analyst-Test/
 ├── Postman_Collection/
 │ └── github_api_test.ipynb ← Google Colab notebook used for API tests
 
-markdown
-Copiar
-Editar
-
 ## Objectives
 
 - Research and understand GitHub public API
@@ -42,3 +38,8 @@ Editar
 - Troubleshooting doc started
 - Colab Notebook in progress
 - All files committed to GitHub
+
+## Personal Reflection
+
+This task allowed me to better understand how APIs work in real projects and gave me hands-on experience troubleshooting real-world errors. It also helped me gain more confidence using Google Colab and Python to extract and analyze data.
+
