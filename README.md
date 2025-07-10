@@ -36,9 +36,9 @@ Editar
 
 ## Status
 
-- [ ] GitHub API researched
-- [ ] Token and headers configured
-- [ ] First API requests tested
-- [ ] Troubleshooting doc started
-- [ ] Colab Notebook in progress
-- [ ] All files committed to GitHub
+- GitHub API researched
+- Token and headers configured
+- First API requests tested
+- Troubleshooting doc started
+- Colab Notebook in progress
+- All files committed to GitHub
