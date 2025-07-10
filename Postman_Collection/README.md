@@ -1,1 +1,0 @@
-Create Postman_Collection directory
